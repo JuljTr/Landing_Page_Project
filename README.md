@@ -23,7 +23,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 - [MDN Web Web Docs](https://developer.mozilla.org/en-US/)
 - [w3schools](https://www.w3schools.com/)
 - [sitepoint](https://www.sitepoint.com/use-html5-data-attributes/)
-- [Go to Make Things] (https://gomakethings.com/how-to-test-if-an-element-is-in-the-viewport-with-vanilla-javascript/#:~:text=If%20an%20element%20is%20in%20the%20viewport%2C%20it's%20position%20from,the%20height%20of%20the%20viewport.)
+- [Go to Make Things] (https://cutt.ly/mCtrDWh)
 
 
 ## Author
