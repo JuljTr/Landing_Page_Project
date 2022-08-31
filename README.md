@@ -23,7 +23,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 - [MDN Web Web Docs](https://developer.mozilla.org/en-US/)
 - [w3schools](https://www.w3schools.com/)
 - [sitepoint](https://www.sitepoint.com/use-html5-data-attributes/)
-- [Go to Make Things] (https://cutt.ly/mCtrDWh)
+- [Go to Make Things](https://cutt.ly/mCtrDWh)
 
 
 ## Author
