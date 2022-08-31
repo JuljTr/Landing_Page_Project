@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This project is part of the Udacity Front-End Web Development Program, the course included the HTML and CSS files as the starter code. Building a multi-section landing page; improve the usability of a static site by dynamically updating the navigational menu based on the amount of content that is added to the page. Interacting with the navigation item should scroll the page to the appropriate section.
+This project is part of the Udacity Front-End Web Development Program, the course included the HTML and CSS files as the starter code. Built a multi-section landing page that we can add content to the page; improve the usability of a static site and dynamically updating the navigational menu. The interaction with the navigation menu should lead to scrolling the page to the appropriate section.
 
 ## Table of Contents
 
